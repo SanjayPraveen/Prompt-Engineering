@@ -1,0 +1,8 @@
+Method 1 : Take Resume from Drive and parse into .json and return the file download link.
+
+Method 2 : Manually upload the Resume to the chat from your device, parse into .json, return the json file content and the link for downloading.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Proof of solution : https://chatgpt.com/share/e8692c1d-7b03-4988-b698-8d3b4bffd7f9
+
