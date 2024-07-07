@@ -1,0 +1,78 @@
+{
+    "personal_information": {
+        "name": "Sanjay Praveen",
+        "contact": {
+            "email": "SanjayTheAnalyst@gmail.com",
+            "phone": "91+ 9500099997",
+            "linkedin": "linkedin.com/in/sanjaypraveen/"
+        },
+        "address": "Valasaravakkam, Chennai \u2013 600087, Tamil Nadu, India"
+    },
+    "about_me": "An ardent and diligent computer science student with a passion for programming, seeking opportunities to leverage expertise in Data Science, Data Analytics and Automation Testing using Python to drive innovation and contribute to the ever-evolving tech landscape.",
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science Engineering (Core)",
+            "institution": "SRM Institute of Science and Technology, Ramapuram",
+            "start_date": "September 2021",
+            "end_date": "Present",
+            "SGPA": {
+                "semester_1": 9.55,
+                "semester_2": 9.14,
+                "semester_3": 9.0,
+                "semester_4": 9.35,
+                "semester_5": 9.23,
+                "CGPA": 9.25
+            }
+        },
+        {
+            "degree": "12th Standard (CBSE)",
+            "institution": "Devi Academy Senior Secondary School",
+            "group": "Maths, Physics, Chemistry, Computer Science, English",
+            "date": "June 2021"
+        },
+        {
+            "degree": "10th Standard (CBSE)",
+            "institution": "The Pupil Saveetha Eco School",
+            "date": "June 2021"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Student Intern",
+            "company": "HCL Technologies Pvt. Ltd.",
+            "start_date": "June 2023",
+            "end_date": "July 2023",
+            "responsibilities": [
+                "Contributed to the development of a Course Recommendation System, including a basic front-end page and programmatically generated user details."
+            ]
+        }
+    ],
+    "extracurricular_work": [
+        "Was a member of CodeChef SRM RMP",
+        "Participated in ETHForAll hackathon",
+        "Bagged the Best Delegate Award for performance in UNHCR (representing Canada) at DeviMUN 2019",
+        "Represented DISEC at the Sir Mutha MUN Conference 2019",
+        "Participated in ISDC (Inter School Debate Championships) 2016"
+    ],
+    "skills": [
+        "Programming Languages: Python, C, C++, Lua",
+        "Core Domains: Data Science, Data Analytics, AI, Automation Testing",
+        "Database Management: MySQL",
+        "Softwares: Microsoft Excel, Tableau, Power BI, Microsoft Azure AI",
+        "Honesty, Integrity, and Ethical Leadership"
+    ],
+    "certifications": [
+        {
+            "name": "PCAP \u2013 Certified Associate in Python Programming",
+            "issuer": "Python Institute",
+            "issue_date": "February 2024",
+            "verification_url": "https://verify.openedg.org/?id=kfdR.mxbJ.z7bO"
+        },
+        {
+            "name": "PCEP \u2013 Certified Entry-Level Python Programmer",
+            "issuer": "Python Institute",
+            "issue_date": "December 2024",
+            "verification_url": "https://verify.openedg.org/?id=YXBv.2bXo.6gDV"
+        }
+    ]
+}
